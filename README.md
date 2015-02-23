@@ -5,3 +5,8 @@ TIMING DESIGN（http://timing.jp）にて制作したアイコンやピクトグ
 ご自由にお使いください。
 
 ## Licence
+[MIT]
+
+
+## Author
+TIMING DESIGN / Takashi Kitamura
