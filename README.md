@@ -11,3 +11,4 @@ TIMING DESIGN
 
 ## Author
 TIMING DESIGN / Takashi Kitamura
+(http://timing.jp)
